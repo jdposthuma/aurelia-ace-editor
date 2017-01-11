@@ -61,7 +61,8 @@
     "format": "amd",
     "jspmNodeConversion": false,
     "directories": {
-      "dist": "dist/amd"
+      "dist": "dist/amd",
+      "lib": "dist/amd"
     },
     "dependencies": {
       "ace": "github:ajaxorg/ace-builds@^1.2.3"
